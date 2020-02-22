@@ -4272,7 +4272,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-width: 1px 0 0;
 }
 .navbar-brand {
-  float: left;
   height: 50px;
   padding: 15px 15px;
   font-size: 18px;
@@ -4487,6 +4486,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-right {
     float: right !important;
     margin-right: -15px;
+    margin-top: 50px !important;
   }
   .navbar-right ~ .navbar-right {
     margin-right: 0;
